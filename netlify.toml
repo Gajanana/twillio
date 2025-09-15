@@ -1,0 +1,4 @@
+    [build]
+      functions = "netlify/functions" # Or your chosen functions directory
+      # command = "npm run build" # If you have a frontend build step
+      # publish = "dist" # If you have a frontend build output directory
